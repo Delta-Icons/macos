@@ -7,6 +7,9 @@
 # Delta Icons
 Matted out icon pack for custom Android launchers, iOS and macOS.
 
+## Usage
+Simply use [LiteIcon](http://freemacsoft.net/liteicon/) to replace your icons. This may be necessary again after updates to apps. Some like Illustrator have additional icons to be replaced in their Resources folders.
+
 ## Contributing
 I'll try to put some work into automating a submission System once i get the time to do so. In the meantime please refer to my [mail adress](mailto:leif.niem@gmail.com) and use the Palette included in the Android repo for your ideas.
 
